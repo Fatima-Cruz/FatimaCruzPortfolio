@@ -1,0 +1,29 @@
+
+.aboutme {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.aboutme p{
+float: right;
+width: 37rem;
+height: 25rem;
+display: flex;
+font-family: 'Poiret One', cursive;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.aboutMePic {
+  width: 33rem;
+  height: 38rem;
+  display: block;
+  float: left;
+  border-radius: 100px;
+  margin: 0 2rem 4rem 4.5rem;}
+
+

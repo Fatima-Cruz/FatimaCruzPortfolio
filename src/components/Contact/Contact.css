@@ -1,0 +1,41 @@
+.contact{
+    margin: 10rem 0;
+    
+}
+
+.socialMedia{
+    font-size: 3rem;
+    padding: 6rem 9rem;
+    display: inline-block;
+    margin: .2rem;
+    text-align: center;
+    width: fit-content;
+    height: 5rem;
+    transform: translate(5%, -0%);
+}
+
+.socialMedia img{
+    height: 10rem;
+    width: 10rem;
+}
+
+.socialMedia p{
+    font-family: 'Poiret One', cursive;
+    color: #575757;
+}
+ 
+.socialMedia a {
+    text-decoration: none;
+    color: #575757;
+}
+
+#email{
+    font-size: 1.3rem;
+    display: block;
+    font-weight: bolder;
+    float: right;
+    font-family: 'Poiret One', cursive;
+    transform: translate(-80%, -0%);
+    color: #575757;
+}
+

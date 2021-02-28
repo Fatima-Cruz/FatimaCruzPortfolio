@@ -1,0 +1,34 @@
+
+
+.projectFloralBorder{
+    display: inline-block;
+    width: 60rem;
+    height: 40rem;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -0%);
+    position:absolute;
+    z-index: 1;
+}
+
+.projects-button{
+    z-index: 10;
+    position:relative;
+    margin: 32rem;    
+    margin-top: 17rem;
+    padding: 1.5rem;
+    font-size: 3rem;
+    font-family: 'Poiret One', cursive;
+    border-style: none;
+    border-radius: 100px;
+    color: #b75c67;
+    background-color: #7971717a;
+    margin-bottom: 20rem;
+}
+
+.projects-button:hover{
+    cursor: pointer;
+    transition: 1s;
+    background-color: #575757;
+    color: #b75c67;
+}

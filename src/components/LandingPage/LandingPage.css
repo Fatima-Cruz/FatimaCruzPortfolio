@@ -1,0 +1,53 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.landing-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50rem;
+  width: 100%;
+  
+}
+
+.landing-page-options {
+  font-family: 'Poiret One', cursive; 
+  background-color: transparent;
+  color: #b75c67;
+  font-size: 2rem;
+  font-weight: bolder;
+  border: none;
+}
+
+ul{
+  list-style-type:none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+li{
+  padding: 1rem 0;
+}
+
+.landing-page-options:hover {
+  transition-duration: 0.3s;
+  text-shadow: 1px 1px 10px rgb(173, 169, 169), 0 0 15px rgb(233, 107, 107), 0 0 5px #a75c70;
+  cursor: pointer;
+}
+
+.myPhoto img{
+  float: right;
+  height: 40rem;
+  width: 40rem;
+}
+
+
+
+

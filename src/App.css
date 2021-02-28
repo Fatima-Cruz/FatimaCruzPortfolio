@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+body{
+    background-image: linear-gradient(to left, #bb9499 ,#ffd5e0,#bb9499 );
+}
+
+bold {
+    color: #b75c67;
+}
+strong {
+    color: #575757;
+    font-size: 2rem;
+  }
+
+h1{
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 3rem;
+    color: #575757;
+    margin: 1.2rem 0 1rem 0;
+    display: block;
+    text-align: center;
+  }

@@ -1,0 +1,12 @@
+.resumePic{
+  width: 70rem;
+  height: 73rem;
+  display: flex;
+  margin: auto;
+  border-radius: 50px;
+}
+
+.resume img:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.913), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: 200ms;
+}
