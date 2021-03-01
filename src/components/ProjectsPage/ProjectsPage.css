@@ -1,0 +1,36 @@
+.goBack {
+    font-family: "Questrial", sans-serif;
+    background-color: #7298de;
+    border: none;
+    border-radius: 1px 30px 30px 1px;
+    color: black;
+    padding: 5px 32px;
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem 0;
+    opacity: 1;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .goBack img {
+    height: 4.5rem;
+  }
+  .goBack p {
+    font-family: "Questrial", sans-serif;
+    font-size: 2rem;
+    display: inline;
+    justify-content: center;
+    margin-left: 1rem;
+  }
+  .goBack a {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+  }
+  
+  .goBack:hover {
+    opacity: 0.6;
+    transition: 0.3s;
+  }
