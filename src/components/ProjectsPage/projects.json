@@ -1,0 +1,61 @@
+{
+    "projects":[
+         {
+         "name": "Hello Kitty Shop",
+         "description": "Don't be shy! Shop here for all your fluffy Hello Kitty needs!",
+         "image": "../assets/HKShop.png",
+         "github": "https://github.com/Fatima-Cruz/hellokittyshop",
+        "website": "https://hellokittyshop.netlify.app/"
+         },
+         {
+        "name": "How Was School? App",
+        "description": "Keep up with your child's schoolwork, teachers, weekly lessons, and more with ease all on one app!",
+        "image": "../assets/HWS.png",
+        "github": "https://github.com/jjohn513/How-Was-School",
+        "website": ""
+        },
+     {
+        "name": "Not Just You",
+        "description": "Reasons and resources on why it's important to reach out to get emotional help before it's too late. Get the support that you need, today.",
+        "image": "../assets/NJY.png",
+        "github": "https://github.com/Fatima-Cruz/Mental-Health-Awareness/tree/main/NotJustYou",
+        "website": " "
+        },
+    {
+        "name": "Tic Tac Toe Game",
+        "description": "It's the classic game of Tic-Tac-Toe that we all know and love, but with a little Road to Hire twist on it!",
+        "image": "../assets/ttt.png",
+        "github": "https://github.com/Fatima-Cruz/Tic-Tac-Toe-Game",
+        "website": ""
+       },
+       {
+        "name": "Guessing Game",
+        "description": "Guess who? No! Guess what. Guess that number just by using your voice! Microphone must be enabled.",
+        "image": "../assets/guess.png",
+        "github": "https://github.com/Fatima-Cruz/Number-Guessing-Game",
+        "website": "https://the-number-guesser.netlify.app/"
+       },
+       {
+        "name": "Visiting Paris",
+        "description": "Consider taking a lovely trip down to the city of love, the city of lights. The stunningly gorgeous Paris, France.",
+        "image": "../assets/paris.png",
+        "github": "https://github.com/Fatima-Cruz/Visiting-Paris",
+        "website": "https://visiting-paris.netlify.app/"
+       },
+       {
+        "name": "El Amigo Reservation",
+        "description": "Come on, Amigo! Make a reservation today to the most booming restaurant in town!",
+        "image": "../assets/elamigo.png",
+        "github": "https://github.com/Fatima-Cruz/reservePage",
+        "website": "https://el-amigo-reservation-form.netlify.app/"
+       },
+       {
+        "name": "Skylark Social App",
+        "description": "Tired of FaceBook? Yeah, so am I. Why not connect on Skylark Social instead?",
+        "image": "../assets/sky.png",
+        "github": "https://github.com/Fatima-Cruz/Skylark-Social",
+        "website": ""
+       }
+
+     ]
+        }

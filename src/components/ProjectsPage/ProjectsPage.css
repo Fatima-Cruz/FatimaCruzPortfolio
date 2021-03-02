@@ -1,6 +1,6 @@
 .goBack {
     font-family: "Questrial", sans-serif;
-    background-color: #7298de;
+    background: rgb(228, 151, 145);
     border: none;
     border-radius: 1px 30px 30px 1px;
     color: black;
@@ -17,7 +17,7 @@
     height: 4.5rem;
   }
   .goBack p {
-    font-family: "Questrial", sans-serif;
+    font-family: 'Petit Formal Script', cursive;
     font-size: 2rem;
     display: inline;
     justify-content: center;
@@ -33,4 +33,82 @@
   .goBack:hover {
     opacity: 0.6;
     transition: 0.3s;
+  }
+
+
+
+  /* //// */
+
+  .project_header {
+    font-family: 'Poiret One', cursive;
+    font-size: 170%;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  .project_description {    
+    font-family: 'Poiret One', cursive;
+    font-size: 1.2rem;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .projectImg{
+    width:28rem;
+    height:13rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  .buttons {
+    margin:  10px;
+    padding: 10px;
+    
+  }
+  
+  .viewButton {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline-block;
+    font-size: 1.2rem;
+    color: rgb(24, 23, 23);
+    background: rgb(228, 151, 145);
+    padding: 3px 10px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Petit Formal Script', cursive;
+    margin: 0 2rem;
+  }
+  
+  .viewButton:hover {
+    transition-duration: 0.3s;
+    opacity: 0.6;
+    color: rgb(53, 49, 49);
+    cursor: pointer;
+   
+  }
+  
+  .flexbox_container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 1rem;
+    align-items: center;
+    margin-bottom: 120px;
+    text-align: center;
+  }
+  
+  
+  .flexbox_item {
+    width: 34rem;
+    height: 23rem;
+    margin: 1rem;
+    border: 3px solid rgb(191, 190, 190);
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  .flexbox_item:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition-duration: 0.3s;
   }
